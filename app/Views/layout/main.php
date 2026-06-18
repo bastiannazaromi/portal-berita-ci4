@@ -37,7 +37,6 @@
 			background: #212529;
 			color: white;
 			padding: 40px 0;
-			/* margin-top diatur lewat class Bootstrap mt-auto */
 		}
 	</style>
 </head>
@@ -65,7 +64,7 @@
 
 	<footer class="mt-auto">
 		<div class="container text-center">
-			<p>&copy; <?= date('Y') ?> Portal Berita - Praktikum Web Sematic</p>
+			<p>&copy; <?= date('Y') ?> Portal Berita - Praktikum Web Semantic</p>
 		</div>
 	</footer>
 
