@@ -53,6 +53,7 @@
 				<ul class="navbar-nav ms-auto">
 					<li class="nav-item"><a class="nav-link" href="<?= base_url('/') ?>">Home</a></li>
 					<li class="nav-item"><a class="nav-link" href="<?= base_url('kategori') ?>">Kategori</a></li>
+					<li class="nav-item"><a class="nav-link" href="<?= base_url('berita') ?>">Berita</a></li>
 				</ul>
 			</div>
 		</div>
